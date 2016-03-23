@@ -34,17 +34,17 @@ Next, let's discuss the fighting physics. You can move each arm independently, f
 ### The Environments
 
 Lastly, let's talk about the levels in this game. Pretty much all of these places are the most incredible and ridiculous places to fight, ever, period, end of story. You have the choice of:
-- Inside of a nuclear power plant turbine, which has the effect of either throwing you into the air, or pulling you toward the fan.
-- Inside of a factory. So you are in some sort of product sorting area, on a platform made of trap doors. Fall into the trap doors and you are out!
+- Inside of a nuclear power plant turbine!
+- Inside of a factory at some sort of product sorting area, on a platform made of trap doors!
 - At a subway station. Watch out for speeding trains!
-- On the tops of two semi-trucks. You can jump between them, but if you fall off, you are out and will most likely get hit by trucks further back in the convoy.
-- Inside two external elevators. You know those elevators that are on the outside of a building? Those. You can fall off and die or cut the cables, because REASONS!
-- In a trash compactor facility or something like that. Basically, there are grinders everywhere and a giant gaping hole. Don't fall into the grinders or in the hole.
-- On two shipping containers dangling from crane cables. Like the elevators, you can jump between them or snap the cables. Unlike the elvators, they're spinning around.
+- On the tops of two semi-trucks!
+- Inside two external elevators. You know those elevators that are on the outside of a building? Those!!
+- In a trash compactor facilityd full of grinders that will KILL YOU!
+- On two shipping containers dangling from crane cables!
 - On top of a power plant smoke stack. Don't fall off of any of the edges!
 - At a large foundry styel incinerator. Don't fall into the incinerator!
 - On top of a blimp! Don't fall off!
-- On a small group of ice plates surrounding an ocean bouy. Remember, kids, ice water is bad!
+- On a small group of ice plates surrounding an ocean bouy in a freezing cold ocean!
 
 Basically, each level is more ridiculous than the last, making you wonder why these people are fighting in such crazy locations...well, you wonder for about 5 minutes, then you just start laughing. Anyways, this game is fantastic, and is clearly worthy of your time when you have friends over. It's $20, so for a somewhat bugggy indie Steam game (unplugging/repluggging controllers will crash the game, and sometimes the character physics will freak out and your character will become a weird angular creature of mind boggling power and speed that will knock people off of the level, which is actually an awesome bug that I hope never gets fixed), you might say "No" but I urge you to reconsider, as this is just too hilarious to pass up!
 
