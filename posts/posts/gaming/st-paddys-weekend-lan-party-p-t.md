@@ -15,7 +15,7 @@ Or perhaps you did, but missed Part 2, where I talk all about Towerfall Ascensio
 So PT (short for Playable Teaser), is a short yet complete horror puzzle game that is a trailer for an entirely different project.
 
 
-I'm going to go into details here so SPOILER ALERT.
+I'm going to go into details here so *SPOILER ALERT*.
 
 You can't get this game on the Playstation Network anymore, so I'm not spoiling too much here.
 
