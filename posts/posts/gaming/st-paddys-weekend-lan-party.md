@@ -52,4 +52,6 @@ Basically, each level is more ridiculous than the last, making you wonder why th
 
 I have a lot more to tell you, but I feel that this is a lot of content to spring on you. I am posting two more game reviews from this weekend, today, so you can read them if you would like.
 
+Here's my post on [Towerfall Ascension](http://www.colinhartwig.com/posts/gaming/st-paddys-weekend-lan-party-towerfall-ascension/), AKA Part 2!
+
 Have a good Monday!

@@ -9,6 +9,8 @@ title = "St. Paddy's Weekend LAN: Towerfall Ascension"
 
 Alright, I've already told you about how the LAN kind of got going, as accurate or inaccurate as that may be (you'll never know!! MWAHAHA!!!), and told you about an incredible party game of cartoony violence, called Gang Beasts. Now, I'm going to explain another incredible cartoony and violent multiplayer battle royale kind of game, Towerfall Ascension.
 
+Before we dive in, did you read my bit on this weekend's LAN party, AKA Part 1? No? [READ IT.](http://www.colinhartwig.com/posts/gaming/st-paddys-weekend-lan-party/)
+
 ## The Gameplay
 
 Every single character is an archer. There are no classes, you are all archers. So, the differences in gameplay come about based on how many (or how few) arrows you have, and of what type. The game is a 2D platformer battle royale, like Bomberman or the original Mario Bros. battles. You each start in your own little area, and can jump around or move around the map. You can duck in order to hide (works best if the map goes dark due to a power up), jump, or slide/dash/dodge. The last one is pretty much the same mechanic, and all use the same button, but work differently depending on whether you are jumping, ducking or moving. You can also shoot arrows, or crush someone by having your feet touch their head (jumping/falling onto them, or even just dodging past their head).
@@ -29,5 +31,7 @@ There are too many to list off here in great detail, but everything is well craf
 
 # The Wrap Up (For Part 2)
 All in all, I feel that this game is well worth $15 for being an indie game. It is immensely fun for local multiplayer (be forewarned it does not have internet multiplayer at this time), and if you shell out an extra $10, you get more power ups, more levels, more baddies, more characters and a level editor with the capability to download community crafted levels! FUN! If you love Spelunky's multiplayer, or even Bomberman/Mario battles, check this one out. In fact, check it out either way.
+
+Ready for one last spooky post about the LAN Party? I knew you were! You can get more action [here](http://www.colinhartwig.com/posts/gaming/st-paddys-weekend-lan-party-p-t/).
 
 Have a great Monday!

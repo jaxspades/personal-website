@@ -7,6 +7,9 @@ title = "St. Paddy's Weekend LAN: PT"
 
 Hey all, in my third and final post about this past weekend's LAN party, I will be writing about probably the most frightening thing that has happened to me in a long time: I played a horror game for about 5 minutes. The game? PT.
 
+Before we dive in, did you read my bit on this weekend's LAN party, AKA Part 1? No? [READ IT.](http://www.colinhartwig.com/posts/gaming/st-paddys-weekend-lan-party/)
+Or perhaps you did, but missed Part 2, where I talk all about Towerfall Ascension? Because if so, then [click here](http://www.colinhartwig.com/posts/gaming/st-paddys-weekend-lan-party-towerfall-ascension/)
+
 # PT
 
 So PT (short for Playable Teaser), is a short yet complete horror puzzle game that is a trailer for an entirely different project.
