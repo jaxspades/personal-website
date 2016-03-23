@@ -34,11 +34,11 @@ Next, let's discuss the fighting physics. You can move each arm independently, f
 ### The Environments
 
 Lastly, let's talk about the levels in this game. Pretty much all of these places are the most incredible and ridiculous places to fight, ever, period, end of story. You have the choice of:
-- Inside of a nuclear power plant turbine, which has the effect of either throwing you into the air, or pulling you toward the fan. You have a small central area and a catwalk where you can fight. That's it. Oh and the side vents? Yeah, if you get sucked into those, you lose a life. Fall into the turbine and you are most likely to die. Or just stand there, having no way to get off of the turbine, hoping that the turbine either floats you upward, to get back to safety, or pulls you down to kill you so that your suffering is over. 
-- Inside of a ...something... factory. So you are in some sort of area, on a platform made of trap doors. Randomly, giant, colorful cheeto puffs fall from the ceiling, and yes, they can knock you out. Fall into the trap doors and you are out.
+- Inside of a nuclear power plant turbine, which has the effect of either throwing you into the air, or pulling you toward the fan.
+- Inside of a factory. So you are in some sort of product sorting area, on a platform made of trap doors. Fall into the trap doors and you are out!
 - At a subway station. Watch out for speeding trains!
 - On the tops of two semi-trucks. You can jump between them, but if you fall off, you are out and will most likely get hit by trucks further back in the convoy.
-- Inside two external elevators. You know those elevators that are on the outside of a building? Those. You can fall off and die, jump between them, or punch/headbutt the cables until they break, hoping you are holding on when you do.
+- Inside two external elevators. You know those elevators that are on the outside of a building? Those. You can fall off and die or cut the cables, because REASONS!
 - In a trash compactor facility or something like that. Basically, there are grinders everywhere and a giant gaping hole. Don't fall into the grinders or in the hole.
 - On two shipping containers dangling from crane cables. Like the elevators, you can jump between them or snap the cables. Unlike the elvators, they're spinning around.
 - On top of a power plant smoke stack. Don't fall off of any of the edges!
