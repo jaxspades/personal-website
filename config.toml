@@ -1,0 +1,5 @@
+baseurl = "http://colinhartwig.com/"
+languageCode = "en-us"
+title = "The Site For All Things Colin Hartwig"
+theme = "allegiant"
+pygmentsStyle = "native"
